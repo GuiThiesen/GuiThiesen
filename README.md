@@ -1,6 +1,6 @@
 ### Hi there, I'm Guilherme 👋
 
-- 🌱 I’m currently learning HTML, CSS, JavaScipt and Python.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
 - 📫 How to reach me: guilherme.thiesen@outlook.com
 
 <div>
